@@ -6,4 +6,6 @@ COPY . .
 
 RUN npm install
 
+EXPOSE 9001
+
 CMD ["node", "backend/server.js"]
