@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="15ffea22-8355-4f7f-bc51-a05e4bad5ce0" name="Changes" comment="Add routes.">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/routes/api.js" beforeDir="false" afterPath="$PROJECT_DIR$/backend/routes/api.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+    <list default="true" id="15ffea22-8355-4f7f-bc51-a05e4bad5ce0" name="Changes" comment="Refresh packages.">
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -181,7 +178,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1710148377959</updated>
-      <workItem from="1710148379261" duration="2476000" />
+      <workItem from="1710148379261" duration="2649000" />
     </task>
     <task id="LOCAL-00001" summary="Add .gitignore file.">
       <option name="closed" value="true" />
@@ -295,7 +292,23 @@
       <option name="project" value="LOCAL" />
       <updated>1710150349826</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Refactor routes.">
+      <option name="closed" value="true" />
+      <created>1710151031406</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1710151031406</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Refresh packages.">
+      <option name="closed" value="true" />
+      <created>1710151057156</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1710151057156</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -327,6 +340,8 @@
     <MESSAGE value="Add CSS." />
     <MESSAGE value="Add images." />
     <MESSAGE value="Add routes." />
-    <option name="LAST_COMMIT_MESSAGE" value="Add routes." />
+    <MESSAGE value="Refactor routes." />
+    <MESSAGE value="Refresh packages." />
+    <option name="LAST_COMMIT_MESSAGE" value="Refresh packages." />
   </component>
 </project>
