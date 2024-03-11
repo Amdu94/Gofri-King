@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="15ffea22-8355-4f7f-bc51-a05e4bad5ce0" name="Changes" comment="Add package-lock.json." />
+    <list default="true" id="15ffea22-8355-4f7f-bc51-a05e4bad5ce0" name="Changes" comment="Add basket.">
+      <change afterPath="$PROJECT_DIR$/backend/order.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,7 +37,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/dulai.adam/Desktop/Programozás/JobHunt/Projects/Gofri-King",
+    "last_opened_file_path": "/Users/dulai.adam/Desktop/Programozás/JobHunt/Projects/Gofri-King/backend",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -46,6 +48,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/backend" />
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
@@ -152,7 +155,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1710148377959</updated>
-      <workItem from="1710148379261" duration="1157000" />
+      <workItem from="1710148379261" duration="1643000" />
     </task>
     <task id="LOCAL-00001" summary="Add .gitignore file.">
       <option name="closed" value="true" />
@@ -186,7 +189,39 @@
       <option name="project" value="LOCAL" />
       <updated>1710149572202</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Add gofries.">
+      <option name="closed" value="true" />
+      <created>1710149746774</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1710149746774</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Add backend server.">
+      <option name="closed" value="true" />
+      <created>1710149888404</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1710149888405</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Add allergens.">
+      <option name="closed" value="true" />
+      <created>1710149929530</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1710149929530</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Add basket.">
+      <option name="closed" value="true" />
+      <created>1710149990703</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1710149990703</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -208,6 +243,10 @@
     <MESSAGE value="Add .eslintrc.json file." />
     <MESSAGE value="Add dependencies." />
     <MESSAGE value="Add package-lock.json." />
-    <option name="LAST_COMMIT_MESSAGE" value="Add package-lock.json." />
+    <MESSAGE value="Add gofries." />
+    <MESSAGE value="Add backend server." />
+    <MESSAGE value="Add allergens." />
+    <MESSAGE value="Add basket." />
+    <option name="LAST_COMMIT_MESSAGE" value="Add basket." />
   </component>
 </project>

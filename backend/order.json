@@ -1,0 +1,25 @@
+{
+  "orders": [
+    {
+      "id": 1,
+      "date": {
+        "year": 2023,
+        "month": 5,
+        "day": 31,
+        "hour": "14:25"
+      },
+      "order": {
+        "id": 1,
+        "name": "Gofri OG",
+        "price": 1000,
+        "amount": 1
+      },
+      "customer": {
+        "name": "",
+        "email": "",
+        "city": "",
+        "street": ""
+      }
+    }
+  ]
+}
