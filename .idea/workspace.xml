@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="15ffea22-8355-4f7f-bc51-a05e4bad5ce0" name="Changes" comment="Add .eslintrc.json file.">
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-    </list>
+    <list default="true" id="15ffea22-8355-4f7f-bc51-a05e4bad5ce0" name="Changes" comment="Add package-lock.json." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -154,7 +152,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1710148377959</updated>
-      <workItem from="1710148379261" duration="825000" />
+      <workItem from="1710148379261" duration="1157000" />
     </task>
     <task id="LOCAL-00001" summary="Add .gitignore file.">
       <option name="closed" value="true" />
@@ -172,7 +170,23 @@
       <option name="project" value="LOCAL" />
       <updated>1710148941128</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Add dependencies.">
+      <option name="closed" value="true" />
+      <created>1710149281018</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1710149281018</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Add package-lock.json.">
+      <option name="closed" value="true" />
+      <created>1710149572202</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1710149572202</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -192,6 +206,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Add .gitignore file." />
     <MESSAGE value="Add .eslintrc.json file." />
-    <option name="LAST_COMMIT_MESSAGE" value="Add .eslintrc.json file." />
+    <MESSAGE value="Add dependencies." />
+    <MESSAGE value="Add package-lock.json." />
+    <option name="LAST_COMMIT_MESSAGE" value="Add package-lock.json." />
   </component>
 </project>
