@@ -12,7 +12,6 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "devStart": "nodemon backend/server.js",
     "start": "node backend/server.js"
   },
   "repository": {
