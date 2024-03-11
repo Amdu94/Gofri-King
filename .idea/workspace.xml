@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="15ffea22-8355-4f7f-bc51-a05e4bad5ce0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    <list default="true" id="15ffea22-8355-4f7f-bc51-a05e4bad5ce0" name="Changes" comment="Add .eslintrc.json file.">
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -155,11 +154,44 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1710148377959</updated>
-      <workItem from="1710148379261" duration="369000" />
+      <workItem from="1710148379261" duration="825000" />
     </task>
+    <task id="LOCAL-00001" summary="Add .gitignore file.">
+      <option name="closed" value="true" />
+      <created>1710148785717</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1710148785717</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Add .eslintrc.json file.">
+      <option name="closed" value="true" />
+      <created>1710148941128</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1710148941128</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add .gitignore file." />
+    <MESSAGE value="Add .eslintrc.json file." />
+    <option name="LAST_COMMIT_MESSAGE" value="Add .eslintrc.json file." />
   </component>
 </project>
