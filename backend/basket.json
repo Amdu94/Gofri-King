@@ -5,6 +5,12 @@
       "name": "Avocado Waffle",
       "price": 1800,
       "amount": 2
+    },
+    {
+      "id": 2,
+      "name": "Nutella Gofri",
+      "price": 1500,
+      "amount": 2
     }
   ]
 }

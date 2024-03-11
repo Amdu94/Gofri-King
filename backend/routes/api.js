@@ -21,7 +21,7 @@ function fileReader() {
 }
 
 router.get('/waffel', (req, res) => {
-  const filePath = path.join(__dirname, '..', 'gofri.json');
+  const filePath = path.join(__dirname, '..', 'gofries.json');
   const waffles = JSON.parse(fs.readFileSync(filePath)).gofries;
   res.json(waffles);
 });
@@ -78,7 +78,7 @@ router.delete('/basket', (req, res) => {
 });
 
 router.post('/basket', (req, res) => {
-  const gofriFilePath = path.join(__dirname, '..', 'gofri.json');
+  const gofriFilePath = path.join(__dirname, '..', 'gofries.json');
   const basketFilePath = path.join(__dirname, '..', 'basket.json');
   const basketContent = JSON.parse(fs.readFileSync(basketFilePath)).basket;
   const gofries = JSON.parse(fs.readFileSync(gofriFilePath)).gofries;
