@@ -1,0 +1,31 @@
+name: Docker Image CI/CD
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    services:
+      docker:
+        image: docker:latest
+        options: --privileged
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Build Docker image
+        run: docker build -t gofri-king .
+
+      - name: Push Docker image to Docker Hub
+        run: |
+          echo "${{ secrets.DOCKERHUB_TOKEN }}" | docker login -u "${{ secrets.DOCKERHUB_USERNAME }}" --password-stdin
+          docker tag gofri-king ${{ secrets.DOCKERHUB_USERNAME }}/gofri-king:${{ github.sha }}
+          docker push ${{ secrets.DOCKERHUB_USERNAME }}/gofri-king:${{ github.sha }}
